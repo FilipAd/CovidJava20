@@ -1,0 +1,19 @@
+Broj Djece:5
+Broj Odraslih:5
+Broj Staraca:5
+Broj Ambulanti:4
+Broj Ambualntnih vozila:5
+Broj Kontronih punktova:5
+Broj zarazene djece:0
+Broj zarazenih starih lica:0
+Broj zarazenih odraslih lica:0
+Broj zarazenih muskaraca:0
+Broj zarazenih zena:0
+Broj oporavljene djece:0
+Broj oporavljenih starih lica:0
+Broj oporavljenih odraslih lica:0
+Broj oporavljenih muskaraca:0
+Broj oporavljenih zena:0
+Broj zarazenih ukupno:0
+Broj oporavljenih ukupno:0
+VRIJEME TRAJANJA SIMULAICJE: 6  sekundi

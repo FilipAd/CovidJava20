@@ -1,0 +1,7 @@
+Jun 25, 2020 2:34:27 PM ekran.Ekran log
+WARNING: ekran.Ekran
+java.lang.NullPointerException
+	at ekran.Ekran.prikazBrojaZO(Ekran.java:958)
+	at filewatcher.Watcher.azuriraj(Watcher.java:92)
+	at filewatcher.Watcher.run(Watcher.java:76)
+
